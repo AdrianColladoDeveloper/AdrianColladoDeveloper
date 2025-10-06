@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hola, soy Adrián Collado  
 
-<!--
-**AdrianColladoDeveloper/AdrianColladoDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Desarrollador Web Full Stack** | 🎓 Graduado en *Grado Superior en Desarrollo de Aplicaciones Web*  
 
-Here are some ideas to get you started:
+Me apasiona crear aplicaciones web eficientes, escalables y fáciles de usar.  
+Disfruto aprendiendo nuevas tecnologías y transformando ideas en soluciones digitales funcionales.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Tecnologías  
+
+**Frontend:**  
+💡 HTML · 🎨 CSS · ⚡ JavaScript · 💎 jQuery · 🧱 Bootstrap  
+
+**Backend:**  
+☕ Java · 🌱 Spring Boot · 🧩 Hibernate · 🗄️ MySQL  
+
+**Otras Habilidades:**  
+🔗 REST APIs · 🧰 Git/GitHub · 🧠 Programación Orientada a Objetos (POO) · 🔐 Autenticación y Seguridad · ☁️ Despliegue básico en la nube · 🐧 Ubuntu/Linux  
+
+---
+
+### 🚀 Actualmente  
+- Ampliando mis conocimientos en **arquitectura de software** y **frameworks modernos**.  
+- Desarrollando proyectos personales para mejorar mis habilidades **full stack**.  
+
+---
+
+### 🎯 Objetivos  
+- Seguir mejorando como **Desarrollador Full Stack**.  
+- Contribuir a **proyectos open-source**.  
+- Unirme a un equipo donde pueda crecer profesionalmente y ayudar a construir soluciones web de impacto.  
+
+---
+
+### 📫 Contacta conmigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adrián%20Collado-blue?logo=linkedin)](https://linkedin.com/in/adriancolladodeveloper) [![InfoJobs](https://img.shields.io/badge/InfoJobs-Adrián%20Collado-0A66C2?logo=briefcase)](https://www.infojobs.net/candidate/cv/view/index.xhtml) 📧 **Correo:** [adrian20madrid@gmail.com](mailto:adrian20madrid@gmail.com)
